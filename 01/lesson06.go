@@ -163,9 +163,9 @@ func main() {
 	i7 := 1
 
 	for {
-		if i7%2 == 0 {
+		/*if i7%2 == 0 {
 			continue
-		}
+		}*/
 
 		i7++
 
