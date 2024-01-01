@@ -1,13 +1,13 @@
 package main
 
-import ()
+import (
+	"fmt"
+	entities "learn-golang/entities"
+)
 
 func main() {
 	fmt.Println("Demo 1")
 	StructureDemo1()
-
-	fmt.Println("Demo 2")
-	StructureDemo2()
 }
 
 func StructureDemo1() {
